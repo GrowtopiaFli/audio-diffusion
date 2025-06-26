@@ -9,7 +9,7 @@ streamlit
 tensorboard
 accelerate==0.21.0
 torchvision
-transformers
+transformers==4.30.0
 requests==2.31.0
 ipykernel
 huggingface_hub==0.16.4
