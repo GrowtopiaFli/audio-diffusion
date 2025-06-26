@@ -12,4 +12,4 @@ torchvision
 transformers
 requests==2.31.0
 ipykernel
-huggingface-hub==0.16.4
+huggingface_hub==0.16.4
